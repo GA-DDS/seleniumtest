@@ -12,7 +12,7 @@ public class WebCheckTest {
 		System.out.println("Welcome to the WebCheck application");
 		
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Users\\mkondepati\\git\\seleniumtest\\SeleniumTest\\ChromeDriver\\chromedriver.exe");
+				"C:\\Users\\mkondepati\\git\\seleniumtest\\SeleniumTest\\ChromeDriverUpdtaed\\chromedriver.exe");
 				
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com");
