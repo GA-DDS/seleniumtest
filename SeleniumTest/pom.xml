@@ -57,9 +57,9 @@
         <version>2.6</version>
         <configuration>
         
-            <suiteXmlFiles>
+         <!--   <suiteXmlFiles>
                 <suiteXmlFile>XMLFiles/${xmlFiles}</suiteXmlFile>
-            </suiteXmlFiles>    
+            </suiteXmlFiles>    --> 
             
             <systemProperties>
             <executionBrowser>${browser}</executionBrowser>
